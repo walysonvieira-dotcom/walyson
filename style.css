@@ -5,6 +5,7 @@
 body{
     background-color: #4682B4;
     display: flex;
+    margin: 12px;
 }
 
 div{
